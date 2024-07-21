@@ -598,6 +598,7 @@ button {
     font-weight: 500;
     font-family: "Gill Sans Std Regular";
     text-transform: uppercase;
+    letter-spacing: 1.6px;
   }
   .mobile-collapse-nav ul li a.active::after,
   .mobile-collapse-nav ul li a:focus.nav--menu::after {
