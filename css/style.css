@@ -699,6 +699,9 @@ button {
   .navbar-header {
     display: none;
   }
+  .dropdown-icon {
+    display: inline-flex;
+  }
   .dropdown-icon svg {
     width: 32px;
     height: 32px;
