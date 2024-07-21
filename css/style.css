@@ -145,9 +145,10 @@ button {
   /* display: flex; */
 }
 
-/* .dropdown-button.open .dropdown-icon {
-  transform: rotate(180deg);
-} */
+.dropdown-icon svg {
+  width: 24px;
+  height: 24px;
+}
 
 .dropdown-content {
   display: none;
@@ -697,6 +698,10 @@ button {
   }
   .navbar-header {
     display: none;
+  }
+  .dropdown-icon svg {
+    width: 24px;
+    height: 24px;
   }
   .header-left {
     display: flex;
