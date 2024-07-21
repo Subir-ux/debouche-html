@@ -678,6 +678,14 @@ button {
     width: 83px;
     height: 83px;
   }
+  .btn-user svg {
+    width: 24px;
+    height: 24px;
+  }
+  .btn-cart svg {
+    width: 24px;
+    height: 24px;
+  }
 }
 
 @media (min-width: 992px) {
